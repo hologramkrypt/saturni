@@ -1,6 +1,8 @@
-# saturni
+# *saturni*
 
-I use this every day on my main rig. This repository contains the **core configuration** of my system.
+This repository contains the **core configuration** files of my workstation.
+I run Fedora Workstation 42 with Hyprland. Please reference the Fedora wiki, as well as the Hyprland wiki for more information on configuring.
+This is simply what i use on the day to day. Because of that it is a constant work in progress.
 
 ---
 
@@ -79,7 +81,7 @@ sudo dnf install cava btop htop cmatrix
 
 More information can be found in the [assets README.md](https://github.com/hologramkrypt/saturni/tree/main/assets#readme).
 
-> This configuration is highly flexible. Feel free to use your own wallpapers, icons, and tweaks to personalize the experience.
+> This configuration is highly flexible. Feel free to use your own wallpapers, icons, and themes to personalize the experience. All configs should meld with basically any color scheme.
 
 I do recommend checking out [Gnome Look](https://www.gnome-look.org/browse?cat=135&ord=rating) for some cool themes. Just drop them into your *~/.themes* directory. 
 Icons go in the *~/.icons* directory.
