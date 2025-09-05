@@ -90,7 +90,7 @@ sudo dnf install cava btop htop cmatrix
 
 ## Theming
 
-More information can be found in the [assets README.md](https://github.com/hologramkrypt/saturni/tree/main/assets#readme).
+More information can be found in the [assets README.md](https://github.com/hologramkrypt/saturni/tree/main/assets#assets).
 
 > This configuration is highly flexible. Feel free to use your own wallpapers, icons, and themes to personalize the experience. All configs should meld with basically any color scheme.
 
