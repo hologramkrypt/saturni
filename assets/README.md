@@ -13,7 +13,7 @@ _Note: Cursor files should be placed within ~/.icons_
 
 **gsettings** is a command line tool used to manage your theming settings across GTK apps. This can be used in succession to the programs listed below if you're comfortable with the terminal. Its basically a terminal based frontend for managing your GTK Settings.
 
-_Note: I would **HIGHLY** recommend downloading this, as it is referenced in many scripts and config files throughout the repo.
+_Note: I would **HIGHLY** recommend having this, as it is referenced in most scripts and config files throughout the repo._
 
 ## *nwg-look*
 
@@ -21,7 +21,7 @@ _Note: I would **HIGHLY** recommend downloading this, as it is referenced in man
 cursors within GTK+ programs (like Thunar). This will generate the config files for you
 so that you dont need to do it manually. More info can be found at [nwg-look](https://nwg-piotr.github.io/nwg-shell/nwg-look.html).
 
-_Note: An exception to the no substitution rule, you can use lxappearance to replace nwg-look if necessary, or if certain GTK2 apps arent holding their theme, however I do not recommend this, ad lxappearance has
+_Note: An exception to the no substitution rule, you *can* use lxappearance to replace nwg-look if necessary, or if certain GTK2 apps arent holding their theme, however I do not recommend this, as lxappearance has
 shown to be unreliable on multiple occasions._
 
 ## *Kvantum* 
