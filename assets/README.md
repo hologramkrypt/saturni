@@ -6,6 +6,6 @@ _Note: Please refer to [Gnome Look](https://www.gnome-look.org/browse?ord=rating
 
 _Note: Cursor files should be placed within ~/.icons_
 
-### Folder structure should be like this
+### Folder structure should look like this...
 
 
