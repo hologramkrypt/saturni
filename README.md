@@ -1,4 +1,4 @@
-# saturni
+# 🔹saturni
 
 I use this every day on my main rig. This repository contains the **core configuration** of my system.
 
