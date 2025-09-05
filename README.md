@@ -41,3 +41,12 @@ Read [INSTALL.md](https://github.com/hologramkrypt/saturni/blob/master/github/IN
 
 This build is inspired by and largely based on:  
 👉 [JaKooLit's Hyprland Dots](https://github.com/JaKooLit/Hyprland-Dots)
+
+---
+
+<p align="center">
+    Built in the graveyard <strong>hologramkrypt</strong> |  
+    <a href="https://github.com/hologramkrypt">GitHub</a> | 📧 <a href="mailto:kryptykmac@proton.me">Email</a> | 🌐 <a href="https://hologramkrypt.github.io">Website</a>  
+    Saturni Hyprland Workstation Configuration
+</p>
+
