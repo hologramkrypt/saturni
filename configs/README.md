@@ -169,12 +169,12 @@ cmatrix -L   # Lambda mode
 ---
 
 ### htop
-**Path:** `~/.config/htop/`
+**Path:** `~/.config/htop/htoprc`
 
 **Description:** Terminal process viewer.
 
 **Notes/Usage:**  
-- Minimal configuration needed.  
+- Minimal configuration needed. Edit `htoprc` 
 - Keep installed as fallback if **btop** is unavailable.
 
 <img width="837" height="527" src="https://github.com/user-attachments/assets/2a4713cc-4348-4ea6-8841-94624657efa2" />
