@@ -1,11 +1,14 @@
 # *Assets* 
+
+This is where youll find all my *wallpapers, icons, cursors,* and *themes*
+
+#### Here are some tools for using said assets...
 - [gsettings](#gsettings)
 - [nwg-look](#nwg-look)
 - [Kvantum](#Kvantum)
 - [Wallpapers](#Wallpapers)
 
 
-This is where youll find all my *wallpapers, icons, cursors,* and *themes*
 
 > Note: Please refer to [Gnome Look](https://www.gnome-look.org/browse?ord=rating) for more themes to fit your style. The ones i use are linked in the repo, within their respective README's
 
