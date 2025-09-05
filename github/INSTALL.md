@@ -15,7 +15,7 @@ This will go through installing all the necessary dependencies and tools utilize
 
 ### System specs
 
-|     🪐        |   🚀          |
+|     🪐        |   🚀                                             |
 | ------------- | -------------------------------------------------|
 |    GPU        |   Geforce RTX 3080                               |
 |    CPU        |   Intel Core i9-9900k                            |
@@ -24,7 +24,7 @@ This will go through installing all the necessary dependencies and tools utilize
 |    TERMINAL   |   Kitty                                          |
 |    OS         |   Fedora Linux 42                                |
 |    WM         |   Hyprland 0.50.1                                |
-|    SHELL      |   Fish 4.0.2                                     |
+|    SHELL      |   Bash                                           |
 
 ---
 
@@ -70,6 +70,7 @@ This will go through installing all the necessary dependencies and tools utilize
 ```bash
 sudo dnf install copyq fastfetch feh grim hyprland kitty nvim rofi swaybg hyprlock swaync thunar wallust waybar wlogout swww sddm
 ```
+> *This will not install everything*
 
 <details>
   
