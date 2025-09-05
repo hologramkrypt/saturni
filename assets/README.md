@@ -1,7 +1,7 @@
 <h1 align=center> Assets 
 </h1>
 
-This is where youll find all my *wallpapers, icons, cursors,* and *themes*
+This is where youll find all my *wallpapers, icons, cursors,* and *themes*. These are just what I use. I encourage trying something different to try and find something that works for you.
 
 #### Heres what I use
 
