@@ -3,13 +3,13 @@
 
 This is where youll find all my *wallpapers, icons, cursors,* and *themes*
 
-#### Here are the directories
+#### Heres what I use
 
 - [Icons](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.icons/README.md)
 - [Themes]()
 - [Wallpapers]()
 
-#### Here are some tools for using said assets...
+#### Here are some tools for using those...
 - [gsettings](#gsettings)
 - [nwg-look](#nwg-look)
 - [Kvantum](#Kvantum)
