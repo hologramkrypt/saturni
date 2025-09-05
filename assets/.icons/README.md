@@ -2,8 +2,6 @@
   Icons
 </h1>
 
-### The icon itself
-
 These are the icons and cursors I use personally. You are free to experiment with other choices as they fit with your style and workflow.
 
 ---
