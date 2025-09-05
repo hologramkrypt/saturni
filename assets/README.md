@@ -1,4 +1,9 @@
 # *Assets* 
+- [gsettings](#gsettings)
+- [nwg-look](#nwg-look)
+- [Kvantum](#Kvantum)
+- [Wallpapers](#Wallpapers)
+
 
 This is where youll find all my *wallpapers, icons, cursors,* and *themes*
 
@@ -8,7 +13,7 @@ _Note: Cursor files should be placed within ~/.icons_
 
 ### Folder structure should look like this...
 
-```bash
+```
 ├── .icons
 │   ├── {CURSORS}
 │   └── {ICONS}
@@ -18,7 +23,7 @@ _Note: Cursor files should be placed within ~/.icons_
     └── {THEME}
 ```
 
-> This is recommended so that the following programs are able to read the files.
+> This is recommended so that the following utilities are able to read the files.
 
 ## *gsettings*
 
@@ -38,4 +43,10 @@ shown to be unreliable on multiple occasions.
 ## *Kvantum* 
 
 I would recommend looking into [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) if you use Qt programs/widgets. It works in a similar fashion to nwg-look.
+
+## *Wallpapers*
+
+I have a big collection of wallpapers to choose from. Colors are sourced by [Wallust](https://codeberg.org/explosion-mental/wallust) and templated across various programs. You can adjust the Wallust config at *~/.config/wallust/wallust.toml.*
+
+**Rofi** will also source these files for the onboard wallpaper picker, just place them in your *~/.wallpapers* directory, or make one if you dont have one. If you want to store your wallpapers elsewhere, you'll have to modify the config files.
 
