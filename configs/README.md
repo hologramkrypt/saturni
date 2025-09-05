@@ -189,7 +189,7 @@ cmatrix -L   # Lambda mode
 **Notes/Usage:**  
 - Config files are sourced by `hyprland.conf`. User defaults, such as your default file manager and terminal, are defined in these files.
 - Controls layouts, animations, rules, input, and window behavior.
-
+- Assign keybinds to files located in `~/.config/hypr/scripts` to quickly change wallpaper, rofi or waybar theme, or refresh hyprland.
 ---
 
 ### kitty
