@@ -11,7 +11,6 @@ Wallpapers
               ├── wallust.toml
               ├── templates
                      ├── colors-hyprland.conf
-
 ```
 
 Wallust is a program that basically grabs the colors from an image. In the **.config** directory, you can find my wallust configuration. 
