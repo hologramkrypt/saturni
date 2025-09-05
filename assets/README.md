@@ -8,6 +8,17 @@ _Note: Cursor files should be placed within ~/.icons_
 
 ### Folder structure should look like this...
 
+```bash
+├── .icons
+│   ├── {CURSORS}
+│   └── {ICONS}
+├── .wallpapers
+│   └── {WALLPAPER.JPG}
+└── .themes
+    └── {THEME}
+```
+
+> This is recommended so that the following programs are able to read the files.
 
 ## *gsettings*
 
