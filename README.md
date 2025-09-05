@@ -2,7 +2,7 @@
 
 ## Directory
 -  []()
--  [Installation](#Installation_Guide)
+-  [Installation](#Installation)
 -  []()
 -  []()
 -  
@@ -22,7 +22,7 @@ cd saturni
 
 ---
 
-## Installation Guide
+## Installation
 
 > **⚠️ Note:**  
 > Substituting dependencies may break the build or result in missing features.
