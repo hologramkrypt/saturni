@@ -39,6 +39,8 @@ cd saturni
 | wallust   | Color manager           |
 | waybar    | Taskbar                 |
 | wlogout   | Alternative logout menu |
+| swww      | Wallpaper changing tool |
+
 
 #### 🔧 Install Core Dependencies
 
@@ -46,7 +48,7 @@ cd saturni
 sudo dnf install hyprland kitty nautilus grim copyq waybar rofi feh swaybg swaync wallust wlogout swaylock nwg-look fastfetch nvim
 ```
 
-> _Note: If certain programs like `nwg-look` or `wlogout` are not available in your distro's repository, you may need to build them manually._
+> _Note: If certain programs like `nwg-look` or `swww` are not available in your distro's repository, you may need to build them manually._
 
 ---
 
