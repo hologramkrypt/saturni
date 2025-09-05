@@ -5,7 +5,7 @@
 -  [Installation](#Installation)
 -  [Theming](#Theming)
 -  []()
--  [Attributions](#Notes_&_Credits)
+-  [Attributions](#Notes&Credits)
 
 ## Introduction
 
