@@ -1,4 +1,5 @@
-# *Assets* 
+<h1 align=center> Assets 
+</h1>
 
 This is where youll find all my *wallpapers, icons, cursors,* and *themes*
 
