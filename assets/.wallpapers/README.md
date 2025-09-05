@@ -22,13 +22,22 @@ Wallpapers
 ---
 
 
-### Displaying the wallpaper
+## Displaying the wallpaper
 
-#### swww
+### swww
 
-swww is used in some scripts to change the values within other configs. You can find specifics within the *wallpaperselect.sh* or *Wallustswww.sh*
+> swww is used in some scripts to change the values within other configs. You can find specifics within the *wallpaperselect.sh* or *Wallustswww.sh*
 
-#### swaybg
+start by initilizing the daemon. (you can put this in your *hyprland.conf* so that it starts in the background)
+```
+swww-daemon
+```
+then pass it an image to display it.
+```
+swww img {$image}
+```
+
+### swaybg
 
 > You can run swaybg when hyprland starts, like in *~/.config/hypr/configs/autoruns.conf*
 
@@ -36,9 +45,20 @@ swww is used in some scripts to change the values within other configs. You can 
 swaybg --image {$image}
 ```
 
-#### hyprpaper
+### hyprpaper
 
-#### feh
+```
+# Load an image into memory
+preload = ~/.wallpapers/{image}
+
+# Apply it to a specific monitor
+wallpaper = monitor, ~/.wallpapers/{image}
+
+# Or apply to all monitors without a set wallpaper
+wallpaper = , ~/.wallpapers/{image}
+```
+
+### feh
 
 > Like swaybg, you can run feh to display your wallpaper at startup from your hyprland config.
 
@@ -46,7 +66,7 @@ swaybg --image {$image}
 feh {$image} --bg-center
 ```
 
-### Information on Wallust
+## Information on Wallust
 
 ##### Wallust config files will be located at...
 ```
