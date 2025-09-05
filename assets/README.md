@@ -9,7 +9,11 @@ _Note: Cursor files should be placed within ~/.icons_
 ### Folder structure should look like this...
 
 
+## *gsettings*
 
+**gsettings** is a command line tool used to manage your theming settings across GTK apps. This can be used in succession to the programs listed below if you're comfortable with the terminal. Its basically a terminal based frontend for managing your GTK Settings.
+
+_Note: I would **HIGHLY** recommend downloading this, as it is referenced in many scripts and config files throughout the repo.
 
 ## *nwg-look*
 
