@@ -1,11 +1,13 @@
 # *saturni*
 
 ## Directory
--  []()
+-  [Introduction](#Introduction)
 -  [Installation](#Installation)
+-  [Theming](#Theming)
 -  []()
--  []()
--  
+-  [Attributions](#Notes & Credits)
+
+## Introduction
 
 This repository contains the **core configuration** files of my workstation.
 I run Fedora Workstation 42 with Hyprland. Please reference the Fedora wiki, as well as the Hyprland wiki for more information on configuring.
@@ -97,7 +99,7 @@ Icons go in the *~/.icons* directory.
 
 ---
 
-## ✅ To-Do
+## To-Do
 
 - [ ] Beautify config structure
 - [ ] Add delight to the experience when all tasks are complete 😄
