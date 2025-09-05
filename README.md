@@ -1,10 +1,10 @@
-# 🌌 saturni
+# saturni
 
 I use this every day on my main rig. This repository contains the **core configuration** of my system.
 
 ---
 
-## 📥 Clone Repository
+## Clone Repository
 
 ```bash
 git clone https://github.com/hologramkrypt/saturni.git
@@ -73,7 +73,7 @@ sudo dnf install cava btop htop cmatrix
 
 ---
 
-## 🎨 Theming
+## Theming
 
 More information can be found in the [assets README.md](https://github.com/hologramkrypt/saturni/tree/main/assets#readme).
 
@@ -93,7 +93,7 @@ Icons go in the *~/.icons* directory.
 
 ---
 
-## 🙌 Notes & Credits
+## Notes & Credits
 
 This build is inspired by and largely based on  
 👉 [JaKooLit's Hyprland Dots](https://github.com/JaKooLit/Hyprland-Dots)
