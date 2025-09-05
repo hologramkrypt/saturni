@@ -1,4 +1,5 @@
-# *saturni*
+<h2 align=center> Saturni for Hyprland
+</h2>
 
 ## Directory
 -  [Introduction](#Introduction)
@@ -29,7 +30,7 @@ cd saturni
 > **⚠️ Note:**  
 > Substituting dependencies may break the build or result in missing features.
 
-### 📦 Core Dependencies
+### Core Dependencies
 
 | Program   | Purpose                 |
 |---------- |------------------------ |
@@ -75,6 +76,7 @@ sudo dnf install hyprland kitty nautilus grim copyq waybar rofi feh swaybg swayn
 | Kvantum     | Theme manager            |
 | pavucontrol | Audio device mixer       |
 | xsettings   | GTK settings             |
+| zed         | Alternative text editor  |
 
 #### Install Optional Dependencies
 
@@ -101,8 +103,8 @@ Icons go in the *~/.icons* directory.
 
 ## To-Do
 
-- [ ] Beautify config structure
-- [ ] Add delight to the experience when all tasks are complete 😄
+- [ ] Optimize config structure
+- [x] Wallust configuration for cava
 
 ---
 
