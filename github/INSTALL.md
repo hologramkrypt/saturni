@@ -105,7 +105,7 @@ sudo dnf install btop cava cmatrix htop kvantum pavucontrol xsettingsd zed
 ---
 
 ### Notes on configuring the system
-
+Consult the [README](https://github.com/hologramkrypt/saturni/tree/master/configs#readme) for more in-depth info on perprogram configuration. Most should work alongside my dotfiles right out of the box however.
  
 
 
