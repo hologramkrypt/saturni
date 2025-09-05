@@ -19,12 +19,12 @@ _Note: Cursor files should be placed within ~/.icons_
 
 ```
 ├── .icons
-│   ├── {CURSORS}
-│   └── {ICONS}
+│   ├── {CURSORS-FOLDER}
+│   └── {ICONS-FOLDER}
 ├── .wallpapers
-│   └── {WALLPAPER.JPG}
+│   └── {WALLPAPER-FOLDER/IMAGE}
 └── .themes
-    └── {THEME}
+    └── {THEME-FOLDER}
 ```
 
 > This is recommended so that the following utilities are able to read the files.
