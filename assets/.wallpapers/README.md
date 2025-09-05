@@ -11,10 +11,10 @@ Wallpapers
 
 | Program                                                            | Purpose                         |
 |--------------------------------------------------------------------|---------------------------------|
-| [swww](#swww)                                                      | Changing tool                   |
-| [swaybg](#swaybg)                                                  | Wallpaper display               |
-| [hyprpaper](#hyprpaper)                                            | Alternative wallpaper display   |
-| [feh](#feh)                                                        | Alternative wallpaper display   |
+| [swww](#---swww)                                                   | Changing tool                   |
+| [swaybg](#---swaybg)                                               | Wallpaper display               |
+| [hyprpaper](#---hyprpaper)                                         | Alternative wallpaper display   |
+| [feh](#---feh)                                                     | Alternative wallpaper display   |
 
 </h4>
 
