@@ -4,7 +4,7 @@
 ## Directory
 -  [Introduction](#Introduction)
 -  [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)
--  [Theming](#Theming)
+-  [Theming](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)
 -  [To-Do](#To-Do)
 -  [Attributions](#Attributions)
 
