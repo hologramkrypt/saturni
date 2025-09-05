@@ -15,4 +15,8 @@ _Note: Cursor files should be placed within ~/.icons_
 
 *nwg-look* is a took used to apply your themes, icons amd
 cursors within GTK+ programs (like Thunar). This will generate the config files for you
-so that you dont need to do it manually. More info can be found at [nwg-look](
+so that you dont need to do it manually. More info can be found at [nwg-look](https://nwg-piotr.github.io/nwg-shell/nwg-look.html)
+
+_Note: An exception to the no substitution rule, you can use lxappearance to replace nwg-look if necessary, or if certain GTK2 apps arent holding their theme, however I do not recommend this, ad lxappearance has
+shown to be unreliable on multiple occasions._
+
