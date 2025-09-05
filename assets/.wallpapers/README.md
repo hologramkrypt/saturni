@@ -11,12 +11,12 @@ Wallpapers
 
 | Program                                                            | Purpose                         |
 |--------------------------------------------------------------------|---------------------------------|
-| [swww]()                                                           | Changing tool                   |
-| [swaybg]()                                                         | Wallpaper display               |
-| [hyprpaper]()                                                      | Alternative wallpaper display   |
-| [feh]()                                                            | Alternative wallpaper display   |
+| [swww](#swww)                                                      | Changing tool                   |
+| [swaybg](#swaybg)                                                  | Wallpaper display               |
+| [hyprpaper](#hyprpaper)                                            | Alternative wallpaper display   |
+| [feh](#feh)                                                        | Alternative wallpaper display   |
 
-</h1>
+</h4>
 
 
 ---
@@ -24,6 +24,27 @@ Wallpapers
 
 ### Displaying the wallpaper
 
+#### swww
+
+swww is used in some scripts to change the values within other configs. You can find specifics within the *wallpaperselect.sh* or *Wallustswww.sh*
+
+#### swaybg
+
+> You can run swaybg when hyprland starts, like in *~/.config/hypr/configs/autoruns.conf*
+
+```
+swaybg --image {$image}
+```
+
+#### hyprpaper
+
+#### feh
+
+> Like swaybg, you can run feh to display your wallpaper at startup from your hyprland config.
+
+```
+feh {$image} --bg-center
+```
 
 ### Information on Wallust
 
