@@ -4,7 +4,7 @@
 ## Directory
 -  [Introduction](#Introduction)
 -  [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)
--  [Theming](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)
+-  [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)
 -  [To-Do](#To-Do)
 -  [Attributions](#Attributions)
 
@@ -85,19 +85,6 @@ sudo dnf install cava btop htop cmatrix
 ```
 
 </details>
-
----
-
-## Theming
-
-More information can be found in the [assets README.md](https://github.com/hologramkrypt/saturni/tree/main/assets#assets).
-
-> This configuration is highly flexible. Feel free to use your own wallpapers, icons, and themes to personalize the experience. All configs should meld with basically any color scheme.
-
-I do recommend checking out [Gnome Look](https://www.gnome-look.org/browse?cat=135&ord=rating) for some cool themes. Just drop them into your *~/.themes* directory. 
-Icons go in the *~/.icons* directory.
-
-> _Note: Cursor file packs go into the ~/.icons directory._
 
 ---
 
