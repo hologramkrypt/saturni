@@ -5,7 +5,7 @@ This is where youll find all my *wallpapers, icons, cursors,* and *themes*
 
 #### Here are the directories
 
-- [Icons]()
+- [Icons](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.icons/README.md)
 - [Themes]()
 - [Wallpapers]()
 
