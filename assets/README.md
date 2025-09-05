@@ -1,27 +1,31 @@
-<h1 align=center> Assets 
-</h1>
+<h1 align=center>Assets</h1>
 
-This is where youll find all my *wallpapers, icons, cursors,* and *themes*. These are just what I use. I encourage trying something different to try and find something that works for you.
+This section contains all my **wallpapers, icons, cursors, and themes**. These are my personal choices; feel free to experiment and find what works best for you.
 
-#### Heres what I use
+---
 
-- [Icons](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.icons/README.md)
-- [Themes](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.themes/README.md)
-- [Wallpapers](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.wallpapers/README.md)
+### What I Use
 
-#### Here are some tools for using those...
-- [gsettings](#gsettings)
-- [nwg-look](#nwg-look)
-- [Kvantum](#Kvantum)
-- [Wallust](#Wallust)
+- [Icons](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.icons/README.md)  
+- [Themes](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.themes/README.md)  
+- [Wallpapers](https://github.com/hologramkrypt/saturni/blob/8bfdc7fb72d86a5eeec35403eeb1fffff1f34946/assets/.wallpapers/README.md)  
 
+---
 
+### Tools for Managing Assets
 
-> Note: Please refer to [Gnome Look](https://www.gnome-look.org/browse?ord=rating) for more themes to fit your style. The ones i use are linked in the repo, within their respective README's
+- [xsettingsd](#xsettingsd)  
+- [nwg-look](#nwg-look)  
+- [Kvantum](#kvantum)  
+- [Wallust](#wallust)  
 
-_Note: Cursor files should be placed within ~/.icons_
+> **Tip:** For additional themes, see [Gnome Look](https://www.gnome-look.org/browse?ord=rating). The ones I use are linked above.
 
-### Folder structure should look like this...
+_Note: Cursor files should be placed within `~/.icons`._
+
+---
+
+### Recommended Folder Structure
 
 ```
 ├── .icons
@@ -33,30 +37,44 @@ _Note: Cursor files should be placed within ~/.icons_
     └── {THEME-FOLDER}
 ```
 
-> This is recommended so that the following utilities are able to read the files.
+> Following this structure ensures that all utilities can properly read your files.
 
-## *gsettings*
+---
 
-**gsettings** is a command line tool used to manage your theming settings across GTK apps. This can be used in succession to the programs listed below if you're comfortable with the terminal. Its basically a terminal based frontend for managing your GTK Settings.
+## xsettingsd
 
-> Note: I would **HIGHLY** recommend having this, as it is referenced in most scripts and config files throughout the repo.
+**xsettingsd** is a command-line tool to manage GTK/X11 theming settings across applications.  
+It is lightweight, terminal-friendly, and referenced in scripts throughout this repository.
 
-## *nwg-look*
+> **Recommendation:** Keep this installed; it is essential for consistent GTK behavior on Wayland/X11.
 
-**nwg-look** is a tool used to apply your themes, icons and
-cursors within GTK+ programs (like Thunar). This will generate the config files for you
-so that you dont need to do it manually. More info can be found at [nwg-look](https://nwg-piotr.github.io/nwg-shell/nwg-look.html).
+---
 
-> Note: An exception to the no substitution rule, you *can* use lxappearance to replace nwg-look if necessary, or if certain GTK2 apps arent holding their theme, however I do not recommend this, as lxappearance has
-shown to be unreliable on multiple occasions.
+## nwg-look
 
-## *Kvantum* 
+**nwg-look** applies themes, icons, and cursors for GTK+ programs (like Thunar).  
+It automatically generates necessary configuration files so manual edits are unnecessary.
 
-I would recommend looking into [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) if you use Qt programs/widgets. It works in a similar fashion to nwg-look.
+More info: [nwg-look official page](https://nwg-piotr.github.io/nwg-shell/nwg-look.html)
 
-## *Wallust*
+> **Note:** You can use `lxappearance` as a fallback for GTK2 apps, but it is less reliable and not recommended.
 
-I have a big collection of wallpapers to choose from. Colors are sourced by [Wallust](https://codeberg.org/explosion-mental/wallust) and templated across various programs. You can adjust the Wallust config at *~/.config/wallust/wallust.toml.* 
+---
 
-**Rofi** will also source these files for the onboard wallpaper picker, just place them in your *~/.wallpapers* directory, or make one if you dont have one. If you want to store your wallpapers elsewhere, you'll have to modify the config files.
+## Kvantum
 
+[Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) is a Qt theme engine.  
+It works similarly to nwg-look for GTK, allowing consistent styling across Qt applications.
+
+---
+
+## Wallust
+
+Wallust extracts colors from your wallpaper collection and applies them across multiple programs.  
+Config file: `~/.config/wallust/wallust.toml`
+
+**Integration:**
+
+- Place wallpapers in `~/.wallpapers` for Rofi wallpaper picker support.  
+- For custom locations, update Wallust config paths.  
+- Templates allow dynamic color schemes based on wallpapers.
