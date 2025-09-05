@@ -1,5 +1,5 @@
-<h2 align=center> Saturni for Hyprland
-</h2>
+<h1 align=center> Saturni for Hyprland
+</h1>
 
 ## Directory
 -  [Introduction](#Introduction)
