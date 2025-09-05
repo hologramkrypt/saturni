@@ -79,6 +79,11 @@ More information can be found in the [assets README.md](https://github.com/holog
 
 > This configuration is highly flexible. Feel free to use your own wallpapers, icons, and tweaks to personalize the experience.
 
+I do recommend checking out [Gnome Look](https://www.gnome-look.org/browse?cat=135&ord=rating) for some cool themes. Just drop them into your *~/.themes* directory. 
+Icons go in the *~/.icons* directory.
+
+> _Note: Cursor file packs go into the ~/.icons directory._
+
 ---
 
 ## ✅ To-Do
