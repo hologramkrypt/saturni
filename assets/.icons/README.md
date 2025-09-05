@@ -4,6 +4,8 @@
 
 These are the icons and cursors I use personally. You are free to experiment with other choices as they fit with your style and workflow.
 
+---
+
 - [Tela Icon Theme](https://www.pling.com/p/1279924)
 
 <p>
@@ -15,5 +17,7 @@ These are the icons and cursors I use personally. You are free to experiment wit
 <p>
   <img width="1200" height="750" alt="8416c5785586398a2121bc5c89b0b314c5f9" src="https://github.com/user-attachments/assets/f2d7a111-fdc3-4f4e-91fe-9ca64b3ff9cc" />
 </p>
+
+
 > Reminder: Both cursor and icon directories should be placed within the ~/.icons folder.
 
