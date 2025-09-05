@@ -1,23 +1,23 @@
-<h1 align=center> Saturni for Hyprland
-</h1>
+<h1 align=center>Saturni for Hyprland</h1>
 
 ## Directory
--  [Introduction](#Introduction)
--  [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)
--  [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)
--  [Configuration](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md)
--  [To-Do](#To-Do)
--  [Attributions](#Attributions)
+- [Introduction](#introduction)  
+- [Clone Repository](#clone-repository)  
+- [Installation](#installation)  
+- [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)  
+- [Configuration](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md)  
+- [To-Do](#to-do)  
+- [Attributions](#attributions)  
+
+---
 
 ## Introduction
 
-This repository contains the **core configuration** files of my workstation.
-I run Fedora Workstation 42 with Hyprland. Please reference the Fedora wiki, as well as the Hyprland wiki for more information on configuring.
-This is simply what i use on the day to day. Because of that it is a constant work in progress.
+This repository contains the **core configuration** files for my workstation.  
+I run **Fedora Workstation 42** with **Hyprland**. Please reference the [Fedora Wiki](https://fedoraproject.org/wiki/) and the [Hyprland Wiki](https://wiki.hyprland.org/) for more details on setup.  
 
-<p>
-  I recommend doing your research on the dependencies and repositories needed for this. There are certain items in the hyprland ecosystem such as "hyprpaper" and "hyprlock" that require hyprlands repo. There are certain things you can configure and swap out but it will usually break things.
-
+This is my daily driver configuration, so it is always evolving.  
+Some tools in the Hyprland ecosystem, such as `hyprpaper` and `hyprlock`, require the official Hyprland repository. While some dependencies can be swapped, doing so may break features.
 
 ---
 
@@ -32,8 +32,8 @@ cd saturni
 
 ## Installation
 
-> **⚠️ Note:**  
-> Substituting dependencies may break the build or result in missing features.
+> **⚠️ Note**  
+> Substituting dependencies may cause breakage or missing features.
 
 ### Core Dependencies
 
@@ -45,12 +45,12 @@ cd saturni
 | feh       | Image viewer            |
 | grim      | Screenshot tool         |
 | hyprland  | Window manager          |
+| hyprlock  | Lockscreen              |
 | kitty     | Terminal                |
 | nvim      | Text editor             |
 | nwg-look  | GTK theming agent       |
 | rofi      | Application launcher    |
 | swaybg    | Wallpaper renderer      |
-| hyprlock  | Lockscreen              |
 | swaync    | Notification center     |
 | thunar    | File manager            |
 | wallust   | Color manager           |
@@ -58,17 +58,16 @@ cd saturni
 | wlogout   | Alternative logout menu |
 | swww      | Wallpaper changing tool |
 
-
-#### 🔧 Install Core Dependencies
+#### Install Core Dependencies
 
 ```bash
-sudo dnf install hyprland kitty nautilus grim copyq waybar rofi feh swaybg swaync wallust wlogout swaylock nwg-look fastfetch nvim
+sudo dnf install hyprland kitty thunar grim copyq waybar rofi feh swaybg swaync wallust wlogout swaylock nwg-look fastfetch nvim hyprlock swww
 ```
 
 ---
 
 <details>
-  <summary> Optional Dependencies </summary>
+<summary>Optional Dependencies</summary>
 
 | Program     | Purpose                  |
 |------------ |------------------------- |
@@ -95,16 +94,14 @@ Read [INSTALL.md](https://github.com/hologramkrypt/saturni/blob/master/github/IN
 
 ## To-Do
 
-- [ ] Optimize config structure
-- [x] Wallust configuration for cava
-- [ ] Optimize for github
-- [ ] Optimize for templatability
+- [ ] Optimize config structure  
+- [x] Wallust configuration for cava  
+- [ ] Optimize for GitHub  
+- [ ] Improve templatability  
 
 ---
 
 ## Attributions
 
-This build is inspired by and largely based on  
+This build is inspired by and largely based on:  
 👉 [JaKooLit's Hyprland Dots](https://github.com/JaKooLit/Hyprland-Dots)
-
----
