@@ -13,6 +13,18 @@
 
 ### System specs
 
+|     🪐        |   🚀          |
+| ------------- | ----------------------------------|
+|    GPU        |   Geforce RTX 3080                |
+|    CPU        |   Intel Core i9-9900k             |
+|    MEMORY     |   32GB                            |
+|    STORAGE    | 11 TB Server + 2 TB SSD + 1 TB HDD|
+|    TERMINAL   |   Kitty                           |
+|    OS         |   Fedora Linux 42                 |
+|    WM         |   Hyprland 0.50.1                 |
+|    SHELL      |   Fish 4.0.2                      |
+
+
 ### Required repositories
 
 
