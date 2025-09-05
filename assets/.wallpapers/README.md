@@ -24,7 +24,7 @@ Wallpapers
 
 ## Displaying the wallpaper
 
-### swww
+### - swww
 
 > swww is used in some scripts to change the values within other configs. You can find specifics within the *wallpaperselect.sh* or *Wallustswww.sh*
 
@@ -37,7 +37,7 @@ then pass it an image to display it.
 swww img {$image}
 ```
 
-### swaybg
+### - swaybg
 
 > You can run swaybg when hyprland starts, like in *~/.config/hypr/configs/autoruns.conf*
 
@@ -45,7 +45,9 @@ swww img {$image}
 swaybg --image {$image}
 ```
 
-### hyprpaper
+### - hyprpaper
+
+> This is optional. I personally use swaybg.
 
 ```
 # Load an image into memory
@@ -58,7 +60,7 @@ wallpaper = monitor, ~/.wallpapers/{image}
 wallpaper = , ~/.wallpapers/{image}
 ```
 
-### feh
+### - feh
 
 > Like swaybg, you can run feh to display your wallpaper at startup from your hyprland config.
 
