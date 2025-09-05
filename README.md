@@ -2,8 +2,8 @@
 </h1>
 
 ## Directory
--  [Introduction](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)
--  [Installation](#Installation)
+-  [Introduction](#Introduction)
+-  [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md))
 -  [Theming](#Theming)
 -  [To-Do](#To-Do)
 -  [Attributions](#Attributions)
