@@ -1,13 +1,14 @@
 <h1 align=center>Saturni for Hyprland</h1>
 
-## Directory
-- [Introduction](#introduction)  
-- [Clone Repository](#clone-repository)  
-- [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)  
-- [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)  
-- [Configuration](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md)  
-- [To-Do](#to-do)  
-- [Attributions](#attributions)  
+<p align="center">
+  [![Introduction](https://img.shields.io/badge/Introduction-🏠-blue)](README.md)
+  [![Installation](https://img.shields.io/badge/Installation-⚙️-green)](github/INSTALL.md)
+  [![Assets](https://img.shields.io/badge/Assets-🖼️-orange)](assets/README.md)
+  [![Configuration](https://img.shields.io/badge/Configuration-🔧-purple)](configs/README.md)
+  [![To-Do](https://img.shields.io/badge/To--Do-📝-yellow)](#to-do)
+  [![Attributions](https://img.shields.io/badge/Attributions-📜-red)](#attributions)
+</p>
+
 
 ---
 
