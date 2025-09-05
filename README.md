@@ -5,6 +5,7 @@
 -  [Introduction](#Introduction)
 -  [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)
 -  [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)
+-  [Configuration](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md)
 -  [To-Do](#To-Do)
 -  [Attributions](#Attributions)
 
