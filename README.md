@@ -46,7 +46,7 @@ This build is inspired by and largely based on:
 
 <p align="center">
     Built in the graveyard // <strong>hologramkrypt</strong> \\ |  
-    <a href="https://github.com/hologramkrypt">GitHub</a> | 📧 <a href="mailto:kryptykmac@proton.me">Email</a> | 🌐 <a href="https://hologramkrypt.github.io">Website</a>  
+    <a href="https://github.com/hologramkrypt">GitHub</a> | 📧 <a href="mailto:kryptykmac@proton.me">Email</a> |
     Saturni Hyprland Workstation Configuration
 </p>
 
