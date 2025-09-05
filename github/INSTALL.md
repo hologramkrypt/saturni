@@ -72,7 +72,7 @@ sudo dnf copr enable solopasha/hyprland
   <p> Most dependencies can be installed through the command line like this: </p>
 
 ```bash
-sudo dnf install copyq fastfetch feh grim hyprland kitty nvim rofi swaybg hyprlock swaync thunar wallust waybar wlogout swww sddm
+sudo dnf install copyq fastfetch feh grim hyprland kitty nvim nwg-look rofi swaybg hyprlock swaync thunar wallust waybar wlogout swww sddm
 ```
 > *This will not install everything*
 
@@ -95,6 +95,10 @@ sudo dnf install copyq fastfetch feh grim hyprland kitty nvim rofi swaybg hyprlo
 | [pavucontrol](https://www.freedesktop.org/software/pulseaudio/pavucontrol/)   | Audio device mixer       |
 | [xsettingsd](https://wiki.archlinux.org/title/Xsettingsd)                     | GTK settings             |
 | [zed](https://zed.dev/)                                                       | Alternative text editor  |
+
+```bash
+sudo dnf install btop cava cmatrix htop kvantum pavucontrol xsettingsd zed
+```
 
 </details>
 
