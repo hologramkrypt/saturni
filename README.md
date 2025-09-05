@@ -15,6 +15,10 @@ This repository contains the **core configuration** files of my workstation.
 I run Fedora Workstation 42 with Hyprland. Please reference the Fedora wiki, as well as the Hyprland wiki for more information on configuring.
 This is simply what i use on the day to day. Because of that it is a constant work in progress.
 
+<p>
+  I recommend doing your research on the dependencies and repositories needed for this. There are certain items in the hyprland ecosystem such as "hyprpaper" and "hyprlock" that require hyprlands repo. There are certain things you can configure and swap out but it will usually break things.
+
+
 ---
 
 ## Clone Repository
@@ -61,8 +65,6 @@ cd saturni
 sudo dnf install hyprland kitty nautilus grim copyq waybar rofi feh swaybg swaync wallust wlogout swaylock nwg-look fastfetch nvim
 ```
 
-> _Note: If certain programs like `nwg-look` or `swww` are not available in your distro's repository, you may need to build them manually._
-
 ---
 
 <details>
@@ -87,12 +89,16 @@ sudo dnf install cava btop htop cmatrix
 
 </details>
 
+Read [INSTALL.md](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md) for more information on installing dependencies and configuring the system.
+
 ---
 
 ## To-Do
 
 - [ ] Optimize config structure
 - [x] Wallust configuration for cava
+- [ ] Optimize for github
+- [ ] Optimize for templatability
 
 ---
 
