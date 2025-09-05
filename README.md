@@ -1,5 +1,12 @@
 # *saturni*
 
+## Directory
+-  []()
+-  [Installation](##Installation Guide)
+-  []()
+-  []()
+-  
+
 This repository contains the **core configuration** files of my workstation.
 I run Fedora Workstation 42 with Hyprland. Please reference the Fedora wiki, as well as the Hyprland wiki for more information on configuring.
 This is simply what i use on the day to day. Because of that it is a constant work in progress.
@@ -15,7 +22,7 @@ cd saturni
 
 ---
 
-## 🛠️ Installation Guide
+## Installation Guide
 
 > **⚠️ Note:**  
 > Substituting dependencies may break the build or result in missing features.
