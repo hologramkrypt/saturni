@@ -2,6 +2,11 @@
 Wallpapers
 </h1>
 
+- [Wallust](#Information-on-Wallust)
+- []()
+- []()
+
+
 ### Information on Wallust
 
 ##### Wallust config files will be located at...
@@ -14,6 +19,9 @@ Wallpapers
 ```
 
 Wallust is a program that basically grabs the colors from an image. In the **.config** directory, you can find my wallust configuration. 
+
+###### wallust.toml = configuration file
+###### colors-hyprland.conf = template
 
 <p>
   I have also created paths to run wallust whenever I change the wallpaper, which helps in maintaining a cohesive colorscheme without having to run wallust manually. Running wallust from the terminal will do the same thing, however there are certain rofi menus that will refresh wallust to the current wallpaper, as welkl as refreshing waybar, rofi, and nwg-look.
