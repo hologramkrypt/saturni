@@ -8,4 +8,4 @@ _Note: Cursor files should be placed within ~/.icons_
 
 ### Folder structure should be like this
 
-$ tree
+
