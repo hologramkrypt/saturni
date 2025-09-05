@@ -1,19 +1,7 @@
 <h1 align=center>Saturni for Hyprland</h1>
 
-## Directory
 
-- [Introduction](#introduction)  
-
-- [Clone Repository](#clone-repository)  
-
-- [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)  
-
-- [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)  
-
-- [Configuration](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md)  
-
-- [To-Do](#to-do)  
-
+[🏠 Introduction](README.md) | [⚙️ Installation](github/INSTALL.md) | [🖼️ Assets](assets/README.md) | [🔧 Configuration](configs/README.md) | [📝 To-Do](#to-do) | [📜 Attributions](#attributions)
 
 ---
 
