@@ -2,9 +2,27 @@
 Wallpapers
 </h1>
 
+- [Wallpaper Display](#Displaying-the-wallpaper)
 - [Wallust](#Information-on-Wallust)
-- []()
-- []()
+
+### Dependencies
+
+<h4 align=center>
+
+| Program                                                            | Purpose                         |
+|--------------------------------------------------------------------|---------------------------------|
+| [swww]()                                                           | Changing tool                   |
+| [swaybg]()                                                         | Wallpaper display               |
+| [hyprpaper]()                                                      | Alternative wallpaper display   |
+| [feh]()                                                            | Alternative wallpaper display   |
+
+</h1>
+
+
+---
+
+
+### Displaying the wallpaper
 
 
 ### Information on Wallust
@@ -18,7 +36,7 @@ Wallpapers
                      ├── colors-hyprland.conf
 ```
 
-Wallust is a program that basically grabs the colors from an image. In the **.config** directory, you can find my wallust configuration. 
+Wallust is a program that basically grabs the colors from an image. In the **.config** directory, you can find my wallust configuration. It is my favorite tool for customization in hyprland... 
 
 ###### wallust.toml = configuration file
 ###### colors-hyprland.conf = template
@@ -30,3 +48,4 @@ Wallust is a program that basically grabs the colors from an image. In the **.co
 > You can create templates in *~/.config/wallust/templates* to be sourced by your programs. I have included some extra templates, however for individual cases you might need to build the template from scratch.
 
 > IMPORTANT:  I would recommend tweaking the settings in *wallust.toml*. There are many that I have changed myself to maintain my dark color scheme, however if you like something else or find it too dark, check out the config file.
+
