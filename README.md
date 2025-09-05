@@ -3,7 +3,7 @@
 ## Directory
 - [Introduction](#introduction)  
 - [Clone Repository](#clone-repository)  
-- [Installation](#installation)  
+- [Installation](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md)  
 - [Assets](https://github.com/hologramkrypt/saturni/blob/master/assets/README.md)  
 - [Configuration](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md)  
 - [To-Do](#to-do)  
@@ -29,64 +29,6 @@ cd saturni
 ```
 
 ---
-
-## Installation
-
-> **⚠️ Note**  
-> Substituting dependencies may cause breakage or missing features.
-
-### Core Dependencies
-
-| Program   | Purpose                 |
-|---------- |------------------------ |
-| bash      | Shell                   |
-| copyq     | Clipboard tool          |
-| fastfetch | System info grabber     |
-| feh       | Image viewer            |
-| grim      | Screenshot tool         |
-| hyprland  | Window manager          |
-| hyprlock  | Lockscreen              |
-| kitty     | Terminal                |
-| nvim      | Text editor             |
-| nwg-look  | GTK theming agent       |
-| rofi      | Application launcher    |
-| swaybg    | Wallpaper renderer      |
-| swaync    | Notification center     |
-| thunar    | File manager            |
-| wallust   | Color manager           |
-| waybar    | Taskbar                 |
-| wlogout   | Alternative logout menu |
-| swww      | Wallpaper changing tool |
-
-#### Install Core Dependencies
-
-```bash
-sudo dnf install hyprland kitty thunar grim copyq waybar rofi feh swaybg swaync wallust wlogout swaylock nwg-look fastfetch nvim hyprlock swww
-```
-
----
-
-<details>
-<summary>Optional Dependencies</summary>
-
-| Program     | Purpose                  |
-|------------ |------------------------- |
-| btop        | Resource monitor         |
-| cava        | Terminal visualizer      |
-| cmatrix     | Terminal matrix effect   |
-| htop        | System monitor           |
-| Kvantum     | Theme manager            |
-| pavucontrol | Audio device mixer       |
-| xsettings   | GTK settings             |
-| zed         | Alternative text editor  |
-
-#### Install Optional Dependencies
-
-```bash
-sudo dnf install cava btop htop cmatrix
-```
-
-</details>
 
 Read [INSTALL.md](https://github.com/hologramkrypt/saturni/blob/master/github/INSTALL.md) for more information on installing dependencies and configuring the system.
 
