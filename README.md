@@ -33,7 +33,7 @@ cd saturni
 | nwg-look  | GTK theming agent       |
 | rofi      | Application launcher    |
 | swaybg    | Wallpaper renderer      |
-| swaylock  | Lockscreen              |
+| hyprlock  | Lockscreen              |
 | swaync    | Notification center     |
 | thunar    | File manager            |
 | wallust   | Color manager           |
