@@ -200,6 +200,7 @@ cmatrix -L   # Lambda mode
 **Notes/Usage:**  
 - Configure fonts, colors, keymaps, performance flags in `kitty.conf`.  
 - Optional: `~/.config/kitty/kitty-themes` for modular configs.
+- `01-Wallust.conf` is a theme sourced by wallpaper colors. This is default.
 
 ---
 
