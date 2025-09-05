@@ -2,6 +2,8 @@
   Icons
 </h1>
 
+### The icon itself
+
 These are the icons and cursors I use personally. You are free to experiment with other choices as they fit with your style and workflow.
 
 ---
@@ -21,3 +23,4 @@ These are the icons and cursors I use personally. You are free to experiment wit
 
 > Reminder: Both cursor and icon directories should be placed within the ~/.icons folder.
 
+### Installation
