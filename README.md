@@ -8,7 +8,7 @@
 ## Introduction
 
 This repository contains the **core configuration** files for my workstation.  
-I run **Fedora Workstation 42** with **Hyprland**. Please reference the [Fedora Wiki](https://fedoraproject.org/wiki/) and the [Hyprland Wiki](https://wiki.hyprland.org/) for more details on setup.  
+I run **Fedora Workstation 42** with **Hyprland**. Please reference the [Fedora Wiki](https://fedoraproject.org/wiki/) and the [Hyprland Wiki](https://wiki.hyprland.org/) for more details.  
 
 This is my daily driver configuration, so it is always evolving.  
 Some tools in the Hyprland ecosystem, such as `hyprpaper` and `hyprlock`, require the official Hyprland repository. While some dependencies can be swapped, doing so may break features.
