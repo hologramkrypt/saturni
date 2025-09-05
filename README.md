@@ -4,8 +4,8 @@
 -  [Introduction](#Introduction)
 -  [Installation](#Installation)
 -  [Theming](#Theming)
--  []()
--  [Attributions](#Notes&Credits)
+-  [To-Do](#To-Do)
+-  [Attributions](#Attributions)
 
 ## Introduction
 
@@ -64,7 +64,7 @@ sudo dnf install hyprland kitty nautilus grim copyq waybar rofi feh swaybg swayn
 ---
 
 <details>
-  <summary>🧩 Optional Dependencies</summary>
+  <summary> Optional Dependencies </summary>
 
 | Program     | Purpose                  |
 |------------ |------------------------- |
@@ -106,7 +106,7 @@ Icons go in the *~/.icons* directory.
 
 ---
 
-## Notes & Credits
+## Attributions
 
 This build is inspired by and largely based on  
 👉 [JaKooLit's Hyprland Dots](https://github.com/JaKooLit/Hyprland-Dots)
