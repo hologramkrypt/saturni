@@ -1,5 +1,8 @@
 <h1 align=center>Saturni for Hyprland</h1>
 
+<img width="1920" height="361" alt="GIT" src="https://github.com/user-attachments/assets/4e7d967d-6508-4bb7-a4fa-da97f2ca7e91" />
+
+
 [🏠 Introduction](README.md) | [⚙️ Installation](github/INSTALL.md) | [🖼️ Assets](assets/README.md) | [🔧 Configuration](configs/README.md) | [📝 To-Do](#to-do) | [📜 Attributions](#attributions)
 
 ---
