@@ -1,4 +1,4 @@
-<h1 align=center>
+<h2 align=center>
 Configuration
 </h1>
 
@@ -9,6 +9,7 @@ Here you will find information on configuring the setup as a whole. This is wher
 
 ### Directory
 - [Notes on Configuration](#notes-on-configuration)
+- [blueman](#blueman)
 - [cava](#cava)
 - [cmatrix](#cmatrix)
 - [copyq](#copyq)
@@ -45,6 +46,7 @@ Here you will find information on configuring the setup as a whole. This is wher
 
 ```bash
 ├── .config
+│   ├── blueman
 │   ├── cava
 │   ├── cmatrix
 │   ├── copyq
@@ -67,6 +69,19 @@ Here you will find information on configuring the setup as a whole. This is wher
 │   ├── xsettingsd
 │   └── zed
 ```
+
+---
+
+### blueman
+**Path:** `~/.config/blueman/`
+
+**Description:** GTK+ Bluetooth manager with graphical interface for device management and configuration.
+
+**Notes/Usage:**  
+- Provides system tray integration and device pairing through a user-friendly interface.
+- Configure auto-connect settings, trusted devices, and service preferences.
+- Supports advanced Bluetooth features like file transfer, audio profiles, and network services.
+- Integrates well with desktop environments and notification systems.
 
 ---
 
@@ -376,4 +391,3 @@ cmatrix -L   # Lambda mode (uses lambda symbols)
 - Include helper scripts, additional configuration files, and supplementary tools as needed.
 - May contain system-specific configurations, custom automation scripts, or specialized utilities.
 - Refer to individual tool documentation for specific configuration requirements.
->
