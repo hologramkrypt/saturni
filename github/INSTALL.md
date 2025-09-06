@@ -18,7 +18,7 @@ This will go through installing all the necessary dependencies and tools utilize
 |     🪐        |   🚀                                             |
 | ------------- | -------------------------------------------------|
 |    GPU        |   Geforce RTX 3080                               |
-|    CPU        |   Intel Core i9-9900k                            |
+|    CPU        |   Intel Core i9-10900k @ 5.30 GHz                |
 |    MEMORY     |   32GB DDR4                                      |
 |    STORAGE    |   11 TB Server + 2 TB SSD + 1 TB HDD             |
 |    TERMINAL   |   Kitty                                          |
