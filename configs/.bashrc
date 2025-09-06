@@ -23,22 +23,28 @@ if [ -d ~/.bashrc.d ]; then
     done
 fi
 unset rc
+. "$HOME/.cargo/env"
 
-export PS1="\w \$ "
+prompt_command() {
+    local real_pwd=$(realpath "$PWD")
+    local real_home=$(realpath "$HOME")
 
-export PATH=$PATH:/home/shader/.spicetify
+    # Replace $HOME with ~ if the path starts with it
+    local path="$real_pwd"
+    if [[ "$real_pwd" == "$real_home"* ]]; then
+        path="~${real_pwd#$real_home}"
+    fi
 
-function prompt_command {
-    local path="${PWD/#$HOME/~}"      # replace $HOME with ~
+    # Split path by '/'
     local IFS='/'
     read -ra parts <<< "$path"
     local n=${#parts[@]}
-    local condensed
+    local condensed=""
 
-    if (( n <= 1 )); then
-        condensed="${parts[0]}"
+    if [[ $n -eq 1 && ${parts[0]} == "~" ]]; then
+        # In home directory
+        condensed="~"
     else
-        condensed=""
         for ((i=0; i<n-1; i++)); do
             if [[ ${parts[i]} == "~" ]]; then
                 condensed+="/~"
@@ -47,11 +53,12 @@ function prompt_command {
             fi
         done
         condensed+="/${parts[n-1]}"
-        condensed="${condensed#/}"    # remove leading slash if present
+        condensed="${condensed#/}"  # Remove leading slash if present
     fi
 
     PS1="$condensed > "
 }
 
 PROMPT_COMMAND=prompt_command
+
 
