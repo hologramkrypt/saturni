@@ -1,12 +1,5 @@
 <h1 align=center>Saturni for Hyprland</h1>
 
-<p align=center>
-
-<img width="150" height="150" alt="saturn-sprite" src="https://github.com/user-attachments/assets/c9bb3594-5077-4605-8c4f-be83b9a76b85" />
-    
-</p>
-
-
 [🏠 Introduction](README.md) | [⚙️ Installation](github/INSTALL.md) | [🖼️ Assets](assets/README.md) | [🔧 Configuration](configs/README.md) | [📝 To-Do](#to-do) | [📜 Attributions](#attributions)
 
 ---
