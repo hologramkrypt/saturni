@@ -48,6 +48,7 @@ sudo dnf copr enable solopasha/hyprland
 | Program                                                                    | Purpose                 |
 |----------------------------------------------------------------------------|------------------------ |
 | bash                                                                       | Shell                   |
+| [chafa]()                                                                  | ASCII renderer          |
 | [copyq](https://github.com/hluk/CopyQ/releases/tag/v9.0.0)                 | Clipboard tool          |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch/blob/dev/README.md) | System info grabber     |
 | [feh](https://feh.finalrewind.org/)                                        | Image viewer            |
