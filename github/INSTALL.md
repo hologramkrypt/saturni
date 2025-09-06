@@ -55,6 +55,8 @@ sudo dnf copr enable solopasha/hyprland
 | [grim](https://man.archlinux.org/man/grim.1.en)                            | Screenshot tool         |
 | [hyprland](https://wiki.hypr.land/Getting-Started/Master-Tutorial/)        | Window manager          |
 | [kitty](https://sw.kovidgoyal.net/kitty/)                                  | Terminal                |
+| [mpv](https://mpv.io/installation/)                                                 | Video player             |
+
 | [nvim](https://neovim.io/)                                                 | Text editor             |
 | [nwg-look](https://nwg-piotr.github.io/nwg-shell/nwg-look.html)            | GTK theming agent       |
 | [rofi](https://github.com/davatorium/rofi)                                 | Application launcher    |
