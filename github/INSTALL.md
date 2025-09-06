@@ -68,7 +68,7 @@ sudo dnf copr enable solopasha/hyprland
 | [waybar](https://github.com/Alexays/Waybar/wiki/Examples)                 | Taskbar                 |
 | [wlogout](https://github.com/ArtsyMacaw/wlogout/blob/master/README.md)    | Logout menu             |
 
-**Note:** Certain dependencies can be substituted for alternatives (e.g., *swaybg* can be replaced with *hyprpaper* or *feh*). Consult the [Configuration README](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md) for more information.
+**Note:** Certain dependencies can be substituted for alternatives (e.g., *swww* can be replaced with *hyprpaper*, *swaybg* or *feh*). Consult the [Configuration README](https://github.com/hologramkrypt/saturni/blob/master/configs/README.md) for more information.
 
 Most dependencies can be installed via command line:
 
