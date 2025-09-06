@@ -26,7 +26,7 @@ Wallpapers
 
 ### swww
 
-> swww is used in some scripts to change the values within other configs. You can find specifics within the *wallpaperselect.sh* or *Wallustswww.sh*
+> swww is used in some scripts to change the values within other configs. I use it in my startup config to run my wallpaper engine. You can find specifics within the *wallpaperselect.sh* or *Wallustswww.sh*.
 
 start by initilizing the daemon. (you can put this in your *hyprland.conf* so that it starts in the background)
 ```
@@ -39,7 +39,7 @@ swww img {$image}
 
 ### swaybg
 
-> You can run swaybg when hyprland starts, like in *~/.config/hypr/configs/autoruns.conf*
+> You can run swaybg when hyprland starts for a static wallpaper, like in *~/.config/hypr/configs/autoruns.conf*
 
 ```
 swaybg --image {$image}
@@ -47,7 +47,7 @@ swaybg --image {$image}
 
 ### hyprpaper
 
-> This is optional. I personally use swaybg.
+> This is optional. I personally use swww.
 
 ```
 # Load an image into memory
