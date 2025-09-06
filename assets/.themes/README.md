@@ -3,6 +3,7 @@
 </h1>
 
 Here are the themes I use most regularly.
+> *More can be found at [Gnome Look](https://www.gnome-look.org/browse/).*
 
 ---
 
