@@ -16,6 +16,7 @@ Here you will find information on configuring the setup as a whole. This is wher
 - [htop](#htop)
 - [hypr](#hypr)
 - [kitty](#kitty)
+- [mpv](#mpv)
 - [nvim](#nvim)
 - [nwg-look](#nwg-look)
 - [rofi](#rofi)
