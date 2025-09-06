@@ -87,6 +87,7 @@ Here you will find information on configuring the setup as a whole. This is wher
 
 ### cava
 **Path:** `~/.config/cava/config`  
+![cava-2456453600](https://github.com/user-attachments/assets/2e2867ad-9f22-41ae-8dce-a63c76e100a6)
 
 **Description:** Console-based Audio Visualizer - visual audio spectrum analyzer for the terminal.
 
@@ -95,7 +96,7 @@ Here you will find information on configuring the setup as a whole. This is wher
 - Create `~/.config/cava/shaders/` directory to implement custom OpenGL shaders.
 - Supports various output methods including terminal, SDL, and framebuffer.
 
-<img width="904" height="225" src="https://github.com/user-attachments/assets/da01e382-270e-4cad-8bda-b528569f0a32" />
+
 
 ---
 
