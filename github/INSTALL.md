@@ -85,19 +85,22 @@ sudo dnf install copyq fastfetch feh grim hyprland kitty nvim nwg-look rofi sway
 > **⚠️ Note:**
 > These dependencies are optional, however I do recommend looking into them as they are integrated throughout my theme
 
-| Program                                                    | Purpose                  |
-|------------------------------------------------------------|------------------------- |
-| [btop](https://www.tecmint.com/btop-system-monitoring-tool-for-linux/)        | Resource monitor         |
-| [cava](https://github.com/nerdnoise/cava)                                     | Terminal visualizer      |
-| [cmatrix](https://www.cyberciti.biz/open-source/command-line-hacks/matrix-digital-rain-on-linux-macos-unix-terminal/)                                                                 | Terminal matrix effect   |
-| [htop](https://www.geeksforgeeks.org/linux-unix/htop-command-in-linux-with-examples/)| System monitor           |
-| [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md)   | Theme manager            |
-| [pavucontrol](https://www.freedesktop.org/software/pulseaudio/pavucontrol/)   | Audio device mixer       |
-| [xsettingsd](https://wiki.archlinux.org/title/Xsettingsd)                     | GTK settings             |
-| [zed](https://zed.dev/)                                                       | Alternative text editor  |
+| Program                                                                                                               | Purpose                  |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------- |
+| [blueman](https://wiki.archlinux.org/title/Blueman)                                                                   | Bluetooth socket         |
+| [btop](https://www.tecmint.com/btop-system-monitoring-tool-for-linux/)                                                | Resource monitor         |
+| [cava](https://github.com/nerdnoise/cava)                                                                             | Terminal visualizer      |
+| [cmatrix](https://www.cyberciti.biz/open-source/command-line-hacks/matrix-digital-rain-on-linux-macos-unix-terminal/) | Terminal matrix effect   |
+| [htop](https://www.geeksforgeeks.org/linux-unix/htop-command-in-linux-with-examples/)                                 | System monitor           |
+| [hypridle](https://github.com/hyprwm/hypridle)                                                                        | System monitor           |
+| [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md)                                           | Theme manager            |
+| [nm-applet](https://wiki.archlinux.org/title/NetworkManager)                                                          | Network tray indicator   |
+| [pavucontrol](https://www.freedesktop.org/software/pulseaudio/pavucontrol/)                                           | Audio device mixer       |
+| [xsettingsd](https://wiki.archlinux.org/title/Xsettingsd)                                                             | GTK settings             |
+| [zed](https://zed.dev/)                                                                                               | Alternative text editor  |
 
 ```bash
-sudo dnf install btop cava cmatrix htop kvantum pavucontrol xsettingsd zed
+sudo dnf install blueman btop cava cmatrix htop kvantum nm-applet pavucontrol xsettingsd zed
 ```
 
 </details>
