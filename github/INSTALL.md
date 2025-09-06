@@ -55,8 +55,7 @@ sudo dnf copr enable solopasha/hyprland
 | [grim](https://man.archlinux.org/man/grim.1.en)                            | Screenshot tool         |
 | [hyprland](https://wiki.hypr.land/Getting-Started/Master-Tutorial/)        | Window manager          |
 | [kitty](https://sw.kovidgoyal.net/kitty/)                                  | Terminal                |
-| [mpv](https://mpv.io/installation/)                                                 | Video player             |
-
+| [mpv](https://mpv.io/installation/)                                        | Video player            |
 | [nvim](https://neovim.io/)                                                 | Text editor             |
 | [nwg-look](https://nwg-piotr.github.io/nwg-shell/nwg-look.html)            | GTK theming agent       |
 | [rofi](https://github.com/davatorium/rofi)                                 | Application launcher    |
@@ -88,12 +87,12 @@ sudo dnf install copyq fastfetch feh grim hyprland kitty nvim nwg-look rofi sway
 > **⚠️ Note:**
 > These dependencies are optional, however I do recommend looking into them as they are integrated throughout my theme
 
-| Program                                                                                                               | Purpose                  |
+| Program      | Purpose                  |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------- |
 | [blueman](https://wiki.archlinux.org/title/Blueman)                                                                   | Bluetooth socket         |
 | [btop](https://www.tecmint.com/btop-system-monitoring-tool-for-linux/)                                                | Resource monitor         |
 | [cava](https://github.com/nerdnoise/cava)                                                                             | Terminal visualizer      |
-| [cmatrix](https://www.cyberciti.biz/open-source/command-line-hacks/matrix-digital-rain-on-linux-macos-unix-terminal/) | Terminal matrix effect   |
+| [cmatrix](https://www.cyberciti.biz/open-source/command-line-hacks/matrix-digital-rain-on-linux-macos-unix-terminal/) | Terminal matrix effect  |
 | [htop](https://www.geeksforgeeks.org/linux-unix/htop-command-in-linux-with-examples/)                                 | System monitor           |
 | [hypridle](https://github.com/hyprwm/hypridle)                                                                        | System monitor           |
 | [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md)                                           | Theme manager            |
